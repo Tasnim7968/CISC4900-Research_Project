@@ -1,8 +1,5 @@
 # Assessing Climate-Driven Flood Risk and Community Resilience in Broad Channel
 
-**CISC 4900 · Project** | **Author:** Tasnim Islam
-**Study area:** Broad Channel, Jamaica Bay, New York City
-
 > **Project status:** Phase 1 (Plan & Design) is complete. Data collection, analysis, and results are in progress and will be added to this repository as the project moves forward.
 
 ---
